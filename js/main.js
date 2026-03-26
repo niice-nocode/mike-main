@@ -4,3 +4,4 @@ import './lenis-smoothscroll.js';
 import './update-year.js';
 import './cursor.js';
 import './vimeo.js';
+import './pixelated.js';
